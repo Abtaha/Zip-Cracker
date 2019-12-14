@@ -1,0 +1,8 @@
+password
+12345678
+abc123
+qwerty
+password1
+p@ssword
+11111111
+abc123
